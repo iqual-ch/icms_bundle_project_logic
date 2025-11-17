@@ -1,0 +1,5 @@
+name: 'ICMS Project Logic'
+type: module
+description: 'Provides deployment hooks and update functions for the ICMS Project bundle.'
+package: Custom
+core_version_requirement: ^10 || ^11
